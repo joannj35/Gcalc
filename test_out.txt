@@ -1,0 +1,125 @@
+G1
+g2
+$
+G1 g2
+g2 G1
+Error: Syntax Error In Command Input
+Error: Illegal Graph/Vertex Name
+Error: Illegal Graph/Vertex Name
+Error: Syntax Error In Command Input
+a3
+v1
+x2
+z0
+$
+a3 z0
+v1 z0
+x2 a3
+Error: Graph Doesnt Exist
+g1
+g2
+g3
+[a3;a3]
+[a3;v1]
+[a3;x2]
+[a3;z0]
+[v1;a3]
+[v1;v1]
+[v1;x2]
+[v1;z0]
+[x2;a3]
+[x2;v1]
+[x2;x2]
+[x2;z0]
+[z0;a3]
+[z0;v1]
+[z0;x2]
+[z0;z0]
+$
+[a3;a3] [v1;z0]
+[a3;a3] [x2;z0]
+[a3;a3] [z0;z0]
+[a3;v1] [v1;z0]
+[a3;v1] [x2;z0]
+[a3;v1] [z0;z0]
+[a3;x2] [v1;a3]
+[a3;x2] [x2;a3]
+[a3;x2] [z0;a3]
+[v1;a3] [a3;z0]
+[v1;a3] [x2;z0]
+[v1;a3] [z0;z0]
+[v1;v1] [a3;z0]
+[v1;v1] [x2;z0]
+[v1;v1] [z0;z0]
+[v1;x2] [a3;a3]
+[v1;x2] [x2;a3]
+[v1;x2] [z0;a3]
+[x2;a3] [a3;z0]
+[x2;a3] [v1;z0]
+[x2;a3] [z0;z0]
+[x2;v1] [a3;z0]
+[x2;v1] [v1;z0]
+[x2;v1] [z0;z0]
+[x2;x2] [a3;a3]
+[x2;x2] [v1;a3]
+[x2;x2] [z0;a3]
+[z0;a3] [a3;z0]
+[z0;a3] [v1;z0]
+[z0;a3] [x2;z0]
+[z0;v1] [a3;z0]
+[z0;v1] [v1;z0]
+[z0;v1] [x2;z0]
+[z0;x2] [a3;a3]
+[z0;x2] [v1;a3]
+[z0;x2] [x2;a3]
+Error: Graph Doesnt Exist
+Error: Graph Doesnt Exist
+Error: Illegal Graph/Vertex Name
+Error: Illegal Graph/Vertex Name
+Error: Syntax Error In Command Input
+Error: Illegal Graph/Vertex Name
+Error: Syntax Error In Command Input
+Error: Illegal Graph/Vertex Name
+g
+$
+Error: Syntax Error In Command Input
+v1
+v1v1
+$
+[v1;v1]
+[v1;v1v1]
+[v1v1;v1]
+[v1v1;v1v1]
+$
+[v1;v1] [v1v1;v1v1]
+Error: Illegal Graph/Vertex Name
+Error: Illegal Graph/Vertex Name
+$
+fail
+if
+sorry
+test
+this
+you
+$
+sorry if
+this test
+you fail
+Error: Syntax Error In Command Input
+Error: Illegal Graph/Vertex Name
+[x1;x4]
+[x1;x5]
+[x2;x4]
+[x2;x5]
+[x3;x4]
+[x3;x5]
+$
+[x3;x4] [x1;x5]
+x1
+x2
+x3
+x4
+x5
+$
+x3 x1
+x4 x5

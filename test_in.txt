@@ -1,0 +1,46 @@
+g1 = { G1            ,g2}
+print(!g1 +        g1)
+ls
+g1={v1,  v3 , v2|      | }
+g1= {v1, x2,a3 , z0 | <        v1,a3> , < print(a) , reset>      }
+g3 = { }
+pri n      t(g3)
+g1={v1,x2  ,a3,z0 | <v1,z0>    ,            <x2,a3> , <a3,z0>   }
+print(g1)
+g2       = g1 + { } 
+print (g1+ G2)
+who
+print(g1 + !g2 *g1)
+delete(g2)
+delete(g2)
+g3 = g2 * g1
+g3 = {         }
+g3 = {a,a}
+g3={a,b     | <a,a>}
+g 3 =     {}
+g3 = g1 + {a | <a,b>  } 
+{} = g
+g = {{ ",AZ  | <",AZ>}
+g = { g}
+print(g)
+who?
+reset
+print({v1v1,v1})
+g1 = {v1v1,v1 | <v1,v1v1>}
+g2=g1*g1
+print(g2)
+hi= {sorry     ,if , you , fail, this, test | <sorry,if> ,<you,fail> ,<this,test>}
+new[hello = {g1 , g2 | <g1,g2>}]
+hello   =     {       [        ;  ] }
+print({})
+print(hi)
+reset reset reset
+g = {? , # | <?, #>}
+
+reset
+save( { x1,x2,x3 | <x3,x1>} , graphTest1.gf)
+save( {x4 , x5 | <x4,x5> } , graphTest2.gf)
+g = load(graphTest1.gf) * load(graphTest2.gf)
+print(g)
+print( load(graphTest1.gf) + load(graphTest2.gf) )
+quit
